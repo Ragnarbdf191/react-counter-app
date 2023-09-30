@@ -1,22 +1,35 @@
 # Site HTML com Aplicativo React
 
-Este repositório contém um site HTML que inclui um aplicativo React de contador simples. O site está hospedado no GitHub Pages e pode ser acessado em [https://ragnarbdf191.github.io/react-counter-app/](https://ragnarbdf191.github.io/react-counter-app/).
+Este repositório contém um site HTML que inclui um aplicativo React. O aplicativo React é um contador simples que permite aos usuários aumentar e diminuir um valor no contador.
+
+## URL de Teste
+Você pode acessar a versão de demonstração deste site e do aplicativo React aqui: [Visualizar o Site](https://ragnarbdf191.github.io/react-counter-app/)
 
 ## Conteúdo do Site
 
-### Aplicativo React de Contador
+### Aplicativo React - Contador
 
 #### Descrição
-Este é um aplicativo React de contador simples que permite aos usuários aumentar e diminuir um valor em um contador.
+Este é um aplicativo React de contador simples que demonstra as funcionalidades básicas de um aplicativo React.
 
 #### Funcionalidades
 - Incrementar e decrementar o contador.
 - Exibir o valor atual do contador.
 
 #### Como Usar
-1. Acesse o site em [https://ragnarbdf191.github.io/react-counter-app/](https://ragnarbdf191.github.io/react-counter-app/).
-2. Interaja com o aplicativo de contador clicando nos botões de incremento e decremento.
-3. Observe o valor atualizado do contador.
+1. Acesse a [URL de Teste](https://ragnarbdf191.github.io/react-counter-app/).
+2. Interaja com o aplicativo de contador diretamente no navegador.
+
+## Implantação
+
+Se você deseja implantar este site em seu próprio ambiente de hospedagem, siga estas etapas gerais:
+
+1. Clone este repositório para o seu sistema local ou faça o download dos arquivos do site.
+2. Carregue os arquivos para o servidor web de hospedagem de sua escolha.
+3. Configure as opções de implantação no seu provedor de hospedagem, se necessário.
+4. Se você estiver usando um domínio personalizado, atualize as configurações DNS para apontar para o servidor de hospedagem.
+
+Lembre-se de ajustar as configurações de implantação conforme apropriado para o seu ambiente de hospedagem específico.
 
 ## Contribuições
 
