@@ -1,0 +1,71 @@
+/* Estilize o cabeçalho da página */
+h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Estilize as categorias */
+  ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  li {
+    margin: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Estilize a categoria selecionada */
+  li.bold {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  /* Estilize a lista de produtos */
+  ul.products {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  li.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  /* Estilize o botão Adicionar ao Carrinho */
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  /* Estilize o carrinho de compras */
+  ul.cart {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li.cart-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  /* Estilize o botão Remover do Carrinho */
+  button.remove {
+    background-color: #dc3545;
+  }
+  
