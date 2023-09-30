@@ -1,24 +1,30 @@
-# Site HTML com Aplicativo React
+# Exemplo de Loja de Compra - Site HTML com Aplicativo React
 
-Este repositório contém um site HTML que inclui um aplicativo React. O aplicativo React é um contador simples que permite aos usuários aumentar e diminuir um valor no contador.
+Este repositório contém um exemplo de site HTML que simula uma loja de compras. O site inclui um aplicativo React que demonstra a funcionalidade básica de uma loja online, permitindo que os usuários naveguem pelos produtos, adicionem itens ao carrinho de compras e façam compras fictícias.
 
 ## URL de Teste
-Você pode acessar a versão de demonstração deste site e do aplicativo React aqui: [Visualizar o Site](https://ragnarbdf191.github.io/react-counter-app/)
+Você pode acessar a versão de demonstração deste site aqui: [Visualizar o Site](https://ragnarbdf191.github.io/react-counter-app/)
 
 ## Conteúdo do Site
 
-### Aplicativo React - Contador
+### Página Principal da Loja
+- Apresenta uma lista de produtos disponíveis para compra.
+- Os usuários podem visualizar detalhes do produto, incluindo preço e descrição.
+- Os usuários podem adicionar produtos ao carrinho de compras.
 
-#### Descrição
-Este é um aplicativo React de contador simples que demonstra as funcionalidades básicas de um aplicativo React.
+### Carrinho de Compras
+- Exibe os itens adicionados ao carrinho de compras.
+- Calcula o valor total dos itens no carrinho.
+- Permite que os usuários removam itens do carrinho.
 
-#### Funcionalidades
-- Incrementar e decrementar o contador.
-- Exibir o valor atual do contador.
+### Finalizar Compra
+- Simula o processo de finalização da compra.
+- Os usuários podem inserir informações fictícias de envio e pagamento.
+- Não realiza transações reais, apenas uma demonstração.
 
-#### Como Usar
+## Como Usar
 1. Acesse a [URL de Teste](https://ragnarbdf191.github.io/react-counter-app/).
-2. Interaja com o aplicativo de contador diretamente no navegador.
+2. Navegue pela loja, adicione produtos ao carrinho e experimente o processo de compra fictícia.
 
 ## Implantação
 
@@ -33,7 +39,7 @@ Lembre-se de ajustar as configurações de implantação conforme apropriado par
 
 ## Contribuições
 
-Contribuições são bem-vindas! Se você deseja melhorar algum aspecto do site ou adicionar novos recursos ao aplicativo React, sinta-se à vontade para criar um fork deste repositório e enviar pull requests.
+Contribuições são bem-vindas! Se você deseja melhorar algum aspecto da loja, adicionar novos recursos ou aprimorar a experiência do usuário, sinta-se à vontade para criar um fork deste repositório e enviar pull requests.
 
 ## Licença
 
