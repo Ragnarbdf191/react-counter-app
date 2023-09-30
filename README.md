@@ -1,6 +1,6 @@
 # Site HTML com Aplicativo React - Contador e Loja
 
-Este repositório contém um site HTML que inclui dois aplicativos: um aplicativo React de contador e um aplicativo de loja fictícia. O site foi projetado para fins de demonstração.
+Este repositório contém um site HTML que inclui dois aplicativos: um aplicativo React de contador e um aplicativo de loja fictícia. Este projeto foi criado para fins de demonstração.
 
 ## Conteúdo do Site
 
@@ -40,7 +40,7 @@ Este é um aplicativo de loja fictícia que permite aos usuários visualizar pro
 
 ## Implantação
 
-Você pode implantar este site HTML em qualquer provedor de hospedagem de sua escolha. Siga as etapas gerais abaixo:
+Você pode implantar este site HTML em qualquer provedor de hospedagem de sua escolha. Aqui estão as etapas gerais:
 
 1. Compile o aplicativo React de contador e o aplicativo de loja fictícia para produção usando `npm run build`.
 2. Carregue os arquivos resultantes da compilação para o servidor web de hospedagem.
